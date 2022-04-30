@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:gravity="center_vertical">
+
+
+    <TextView
+        android:id="@+id/postTitle"
+        style="@style/TextAppearance.AppCompat.Headline"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceListItemSmall"
+        android:text="@string/ImageTitleText" />
+
+    <ImageView
+        android:padding="5dp"
+        android:id="@+id/imagePost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        app:srcCompat="@android:drawable/ic_input_add"
+        android:contentDescription="@string/imageContentDesc" />
+
+    <ImageView
+        android:id="@+id/likeButton"
+        android:padding="7dp"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        app:srcCompat="@drawable/unpressed_like_button"
+        android:contentDescription="@string/likeButton" />
+
+</LinearLayout>

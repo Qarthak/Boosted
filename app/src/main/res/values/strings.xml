@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Boosted</string>
+    <!-- Strings related to login -->
+    <string name="prompt_name">Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="WelcomeText">Welcome to the Internet!</string>
+    <string name="ProceedText">Proceed</string>
+    <string name="ImageTitleText">Image Post\'s Title</string>
+    <string name="PollTitleString">PollView</string>
+    <string name="TextTitleString">TextView</string>
+    <string name="SubmitString">Submit</string>
+    <string name="imageContentDesc">pollImage</string>
+    <string name="LikeButtonLabel">Likes</string>
+    <string name="likeButton">likeButton</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sarth/AndroidStudioProjects/Boosted/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1646586345381526" />
+        <entry key="..\:/Users/sarth/AndroidStudioProjects/Boosted/app/src/main/res/layout-w936dp/activity_login.xml" value="0.1921875" />
+        <entry key="..\:/Users/sarth/AndroidStudioProjects/Boosted/app/src/main/res/layout/activity_feed.xml" value="0.2" />
+        <entry key="..\:/Users/sarth/AndroidStudioProjects/Boosted/app/src/main/res/layout/activity_greetings.xml" value="0.24864130434782608" />
+        <entry key="..\:/Users/sarth/AndroidStudioProjects/Boosted/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/sarth/AndroidStudioProjects/Boosted/app/src/main/res/layout/image_item_view.xml" value="0.264" />
+        <entry key="..\:/Users/sarth/AndroidStudioProjects/Boosted/app/src/main/res/layout/poll_item_view.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/sarth/AndroidStudioProjects/Boosted/app/src/main/res/layout/text_item_view.xml" value="0.264" />
+        <entry key="..\:/Users/sarth/AndroidStudioProjects/Boosted/app/src/main/res/layout/welcome_page.xml" value="0.24864130434782608" />
+        <entry key="app/src/main/res/drawable/divider.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/pressed_like_button.xml" value="0.144" />
+        <entry key="app/src/main/res/layout/activity_feed.xml" value="0.2210144927536232" />
+        <entry key="app/src/main/res/layout/activity_greetings.xml" value="0.2210144927536232" />
+        <entry key="app/src/main/res/layout/image_item_view.xml" value="0.26603393554687504" />
+        <entry key="app/src/main/res/layout/poll_item_view.xml" value="0.16885070800781243" />
+        <entry key="app/src/main/res/layout/text_item_view.xml" value="0.2808641975308642" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
