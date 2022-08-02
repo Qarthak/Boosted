@@ -13,7 +13,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 
 //Alternatively, we could have two classes, one for text and one for image
-//But this will not scale well and we'll have to pass object into the adapter which can cause issues
+//But that will not scale well and we'll have to pass object into the adapter which can cause issues
 data class Post(
     val type: PostType,
     val title: String,
